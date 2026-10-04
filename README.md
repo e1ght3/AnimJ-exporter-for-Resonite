@@ -25,12 +25,12 @@ resrec:///U-e1ght3/R-8C6EDDC35C6751EA3D8F52ECF53E61BDC81EF8D773D75369B8E8E3ADF1B
 
 ## 開発と表記
 
-設計・実装・資料作成にAI **Astra** を使用し、Resonite内での構築・調査・検証に **ResoniteLink** と **Resoloop** を使用しました。ResoniteLinkとResoloopはAIモデルではなく、開発時の接続・操作ツールです。通常の利用者はこれらをインストールする必要はありません。
+設計・実装・資料作成にOpenAI GPT-6 Astraを使用し、Resonite内での構築・調査・検証に **ResoniteLink** と **Resoloop** を使用しました。ResoniteLinkとResoloopはAIモデルではなく、開発時の接続・操作ツールです。通常の利用者はこれらをインストールする必要はありません。
 
 コピー時の作者表記例：`AnimJ exporter for Resonite — e1ght3`。
 本アドオンは **GPL-3.0-or-later** で配布します。作者e1ght3の著作権表示とライセンスを残し、対応するソースを添えて自由に利用・コピー・改変・再配布できます。商用利用も可能です。再配布はGPLの条件に従ってください。無保証です。詳細は[LICENSE](LICENSE)と[簡単な利用条件](TERMS.ja.md)を参照してください。
 
-[Blender](https://www.blender.org/) ／ [AnimJ公式仕様](https://wiki.resonite.com/AnimJ) ／ [ResoniteLink](https://github.com/Yellow-Dog-Man/ResoniteLink) ／ [Resoloop](https://github.com/orange3134/resoloop)
+[Blender](https://www.blender.org/) ／ [AnimJ公式仕様](https://wiki.resonite.com/AnimJ) ／ [OpenAI GPT-6 Astra](https://openai.com/ja-JP/index/gpt-6-astra/) ／ [ResoniteLink](https://github.com/Yellow-Dog-Man/ResoniteLink) ／ [Resoloop](https://github.com/orange3134/resoloop)
 
 本プロジェクトはBlenderやResoniteの公式製品ではありません。テストに用いた第三者のアバターモデル、ユーザー作例、Resonite本体、Resoloop本体は同梱していません。
 
