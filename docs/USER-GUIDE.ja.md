@@ -26,7 +26,13 @@
 
 ## 3. Resoniteへ取り込む
 
-空のAnimJ Libraryを取り出します。別モデル入りのアイテムへ上書き投入しないでください。モデルは着用しません。
+次のURI全体をコピーし、Resonite内でペーストして、空のAnimJ Libraryを取得します。
+
+```text
+resrec:///U-e1ght3/R-8C6EDDC35C6751EA3D8F52ECF53E61BDC81EF8D773D75369B8E8E3ADF1BE6782
+```
+
+別モデル入りのアイテムへ上書き投入しないでください。モデルは着用しません。
 
 1. `model.fbx` をResoniteへドラッグします。
 2. ダイアログの「高度な設定」で次の値にします。

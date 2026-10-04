@@ -15,7 +15,13 @@ Blenderのタイムライン上の動きをAnimJとして出力します。初�
 
 Blenderには[アドオンZIP](downloads/animj_exporter_for_resonite-0.3.1-preview.zip)をダウンロードし、ZIPのままインストールします。GitHubのファイル画面でダウンロードボタンを押してください。「Code → Download ZIP」はリポジトリ全体なので、アドオンインストーラーへ直接渡さないでください。
 
-Resonite内ツールは作者e1ght3が空の状態でインベントリへ保存済みです。現時点では作者から直接受け取ってください。共有リンクは準備中です。作者から渡された空の「AnimJ Library 0.1.0 preview」を使用してください。BlenderアドオンのZIPにはResoniteアイテムは含まれません。
+Resonite内ツールは、次のURI全体をコピーし、Resonite内でペーストすると取得できます。
+
+```text
+resrec:///U-e1ght3/R-8C6EDDC35C6751EA3D8F52ECF53E61BDC81EF8D773D75369B8E8E3ADF1BE6782
+```
+
+モデル・クリップが空の「AnimJ Library 0.1.0 preview」です。BlenderアドオンのZIPにはResoniteアイテムは含まれません。
 
 ## 開発と表記
 
